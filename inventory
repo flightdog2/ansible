@@ -1,4 +1,10 @@
+[web_servers]
 192.168.0.51
 192.168.0.52
+192.168.0.55
 
-# test line
+
+[db_servers]
+192.168.0.55
+
+[file_servers]
